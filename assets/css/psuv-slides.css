@@ -1,0 +1,29 @@
+.suv-slides-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.box{
+    /* border: 1px solid red; */
+}
+.box img{
+    width:95%;
+    /* height: 500px; */
+}
+#img{
+    width: 50%;
+    float: left;
+}
+.mid{
+    display: flex;
+    flex-direction: column;
+}
+.ratings{
+    justify-content: space-between;
+}
+.ratings  i{
+    float: right;
+}
+.ratings-text{
+    text-align: left;
+}

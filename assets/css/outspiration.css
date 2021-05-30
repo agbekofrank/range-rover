@@ -1,0 +1,13 @@
+.outspiration {
+    display: flex;
+    flex-direction: column;
+    background-color: #f8f9f9;
+    /* background-color: bisque; */
+}
+.outspiration-text {
+    text-align: start;
+    /* width: 100%; */
+}
+.outspiration-img img{
+    width: 100%;
+}

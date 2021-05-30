@@ -1,0 +1,11 @@
+.ovs{
+    padding: 0 20px 0 10px;
+    background-color: #e9ecec;
+}
+.ovs img{
+    width: 100%;
+}
+.ovs-info{
+    /* border: 1px solid red; */
+    text-align: start;
+}
